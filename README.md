@@ -1,5 +1,5 @@
 
-# TOF Laser Range Sensor (PSS552 pcb)
+# TOF Laser Range Sensor
 
  TOF Time Of Flight Sensors in UART cascade mode with 5 sensors chained.
 
